@@ -8,6 +8,7 @@
         "@types/react-dom": "^16.9.4",
         "hadouken-js-adapter": "^0.42.2",
         "mini-css-extract-plugin": "0.5.0",
+        "openfin-fdc3": "^0.2.3",
         "react": "^16.12.0",
         "react-dom": "^16.11.0"
     },
